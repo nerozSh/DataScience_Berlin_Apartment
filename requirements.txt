@@ -4,8 +4,10 @@
 #matplotlib>=3.7
 #seaborn>=0.12
 #streamlit>=1.26
-
 #pandasql>=0.7.3
+
+
+#pip install numpy pandas scikit-learn matplotlib seaborn streamlit pandasql
 
 
 #streamlit run app/wohnung
