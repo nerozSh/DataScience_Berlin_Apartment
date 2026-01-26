@@ -92,7 +92,7 @@ Durch dieses Projekt konnte ich:
 - NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+
 
 ---
 
